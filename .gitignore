@@ -1,6 +1,7 @@
 # Application specific
 /.idea
 /settings.py
+/*.pyc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -91,4 +92,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
